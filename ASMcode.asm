@@ -1,3 +1,6 @@
+; @Author: Utkarsh Pathrabe
+; Assembly Language Code for Microprocessor based Scanner
+
 .model tiny
 .data
 portA1	equ 80h
