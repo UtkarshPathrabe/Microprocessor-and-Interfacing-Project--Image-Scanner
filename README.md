@@ -1,4 +1,4 @@
-Microprocessor-and-Interfacing-Project--Image-Scanner
-=====================================================
+Microprocessor-Based Image Scanner Design and Implementation
+============================================================
 
-Contains the Project Files of the Microprocessor Based Image Scanner
+The project successfully achieved the design assignment of creating a microprocessor-based image scanner. Designed for the 'Microprocessor and Interfacing Project', the scanner effectively scans a black and white image and stores it as binary data. The circuit was meticulously designed and its different components were interfaced on a simulation software called 'Proteus'. Additionally, the ASM Code for the simulation was written to ensure the functionality of the scanner. By utilizing the Intel 8086 processor, RAM model 6116, ROM chips, stepper motors, LED photodiodes and various interfacing devices, the team effectively implemented the design specifications. The detailed hardware circuit diagram and flow chart of the software provided a comprehensive overview of the image scanning process. The successful integration of hardware and software components demonstrated the team's ability to create a functional microprocessor-based image scanner as per the project requirements.
